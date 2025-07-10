@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/iriba-site/static/css/main.b37d4246.css",
-    "main.js": "/iriba-site/static/js/main.8c630ff5.js",
+    "main.css": "/iriba-site/static/css/main.44a7e335.css",
+    "main.js": "/iriba-site/static/js/main.04e6a728.js",
     "index.html": "/iriba-site/index.html",
-    "main.b37d4246.css.map": "/iriba-site/static/css/main.b37d4246.css.map",
-    "main.8c630ff5.js.map": "/iriba-site/static/js/main.8c630ff5.js.map"
+    "main.44a7e335.css.map": "/iriba-site/static/css/main.44a7e335.css.map",
+    "main.04e6a728.js.map": "/iriba-site/static/js/main.04e6a728.js.map"
   },
   "entrypoints": [
-    "static/css/main.b37d4246.css",
-    "static/js/main.8c630ff5.js"
+    "static/css/main.44a7e335.css",
+    "static/js/main.04e6a728.js"
   ]
 }
