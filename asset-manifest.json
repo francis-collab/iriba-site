@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iriba-site/static/css/main.b37d4246.css",
+    "main.js": "/iriba-site/static/js/main.8c630ff5.js",
+    "index.html": "/iriba-site/index.html",
+    "main.b37d4246.css.map": "/iriba-site/static/css/main.b37d4246.css.map",
+    "main.8c630ff5.js.map": "/iriba-site/static/js/main.8c630ff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37d4246.css",
+    "static/js/main.8c630ff5.js"
+  ]
+}
